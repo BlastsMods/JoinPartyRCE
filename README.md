@@ -13,3 +13,9 @@ Gamer7112 for finding the exploit.
 AssumingAgate for stealing the packet from XBOX360LSBEST (Gamer7112's friend).
 
 Blasts Mods for making this shitty tool.
+
+--
+
+If you want to download AssumingAgate's leaked tool that has more options, download it here:
+
+https://anonfile.com/7eadwf76n8/RCE-CabConModding.com-LeakedBySwoon_rar
