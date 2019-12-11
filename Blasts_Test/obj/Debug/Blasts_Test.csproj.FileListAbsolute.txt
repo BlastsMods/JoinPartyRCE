@@ -1,0 +1,10 @@
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\bin\Debug\Blasts_Test.exe.config
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\bin\Debug\Blasts_Test.exe
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\bin\Debug\Blasts_Test.pdb
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\obj\Debug\Blasts_Test.csprojAssemblyReference.cache
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\obj\Debug\Blasts_Test.Form1.resources
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\obj\Debug\Blasts_Test.Properties.Resources.resources
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\obj\Debug\Blasts_Test.csproj.GenerateResource.cache
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\obj\Debug\Blasts_Test.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\obj\Debug\Blasts_Test.exe
+C:\Users\John\source\repos\Blasts_Test\Blasts_Test\obj\Debug\Blasts_Test.pdb
