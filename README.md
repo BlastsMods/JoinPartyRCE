@@ -7,6 +7,7 @@ Since Modern Warfare 2 does not encrypt connectionless packets, you do not have 
 
 Credits:
 
+--
 
 Gamer7112 for finding the exploit.
 
